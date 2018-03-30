@@ -29,6 +29,7 @@ dependencies {
     compile 'com.android.support.constraint:constraint-layout:1.0.0-beta4'
     compile 'com.sandrios.android:sandriosCamera:1.0.9'
     compile 'com.nightonke:boommenu:2.0.8'
+    compile 'com.android.support:design:+'
 
     compile 'de.greenrobot:eventbus:3.+'
     testCompile 'junit:junit:4.12'
